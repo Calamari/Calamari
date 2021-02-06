@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a Freelance Full-Stack Software Developer for the Web based in Hamburg, Germany.
+I am a Freelance Full-Stack Software Developer for the Web based in Hamburg, Germany 🇩🇪.
 
 I drive a passion for many things besides of fast and maintable code.
 
-You can hire me, or just write me, if you want to talk about Web development, Music or Board games. 🤗
+You can hire me, or just write me, if you want to talk about Web development 🕸️, Music 🎵 or Board games 🎲.
 
 Feel free to look around here on GitHub, or check out my other web presences:
 
