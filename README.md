@@ -12,3 +12,4 @@ Feel free to look around here on GitHub, or check out my other web presences:
 - [Tavonius.de](https://tavonius.de) – German VCard Thingy
 - [twitter/@Georg_Tavonius](https://twitter.com/Georg_Tavonius) – My Twitter feed
 - [exercism.io/profiles/Calamari](https://exercism.io/profiles/Calamari) – My Profile on Exercism.io
+- [xing.com/Georg_Tavonius](https://www.xing.com/profile/Georg_Tavonius) – My Profile on XING
