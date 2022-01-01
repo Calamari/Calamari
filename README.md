@@ -13,3 +13,5 @@ Feel free to look around here on GitHub, or check out my other web presences:
 - [twitter/@Georg_Tavonius](https://twitter.com/Georg_Tavonius) – My Twitter feed
 - [exercism.io/profiles/Calamari](https://exercism.io/profiles/Calamari) – My Profile on Exercism.io
 - [xing.com/Georg_Tavonius](https://www.xing.com/profile/Georg_Tavonius) – My Profile on XING
+
+![My GitHub-Stats](https://github-readme-stats.vercel.app/api?username=calamari&count_private=true&show_icons=true&theme=cobalt)
